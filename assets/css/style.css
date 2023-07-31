@@ -1050,6 +1050,7 @@ contact
 
 #contact-us .container-fluid .col-lg-6 {
   padding: 0px;
+  width: 100%;
 }
 
 #contact-us .contact-form {
